@@ -3,22 +3,22 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: mosovip
-subtitle: mosovip
-description: mosovip的博客
+title: Hexo
+subtitle: ''
+description: ''
 keywords:
-author: Mosovip
-language: zh-CN
-timezone: Asia/shanghai
+author: John Doe
+language: en
+timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://mosovip.tk/
+url: http://yoursite.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
-  trailing_index:  # Set to false to remove trailing 'index.html' from permalinks
+  trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
   trailing_html: true # Set to false to remove trailing '.html' from permalinks
 
 # Directory
@@ -98,7 +98,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: yun
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
