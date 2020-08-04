@@ -98,11 +98,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-<<<<<<< HEAD
 theme: next
-=======
-theme: yun
->>>>>>> 6712a5a88b9dd32120c8cd6b8fe86429dafad0ee
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
