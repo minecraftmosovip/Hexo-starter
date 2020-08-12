@@ -22,7 +22,6 @@
     "hexo-renderer-marked": "^3.0.0",
     "hexo-renderer-stylus": "^1.1.0",
     "hexo-server": "^1.0.0",
-    "nodejs": "0.0.0",
-    "vue": "^2.6.11"
+    "nodejs": "0.0.0"
   }
 }
